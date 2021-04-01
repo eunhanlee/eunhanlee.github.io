@@ -9,9 +9,7 @@ Given an array of integers nums and an integer target, return indices of the
 You may assume that each input would have *exactly* one solution, and you may not use the same element twice.
 You can return the answer in any order.
 Example 1:
-Input: nums = [2,7,11,15], target = 9 Output: [0,1] Output: Because nums[0] + nums[1] == 9, we return [0, 1].</description></item><item><title>about</title><link>https://eunhanlee.github.io/about/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/about/</guid><description>EUNHAN LEE (C) 571-294-2589
-e-mail
-LinkedIn
+Input: nums = [2,7,11,15], target = 9 Output: [0,1] Output: Because nums[0] + nums[1] == 9, we return [0, 1].</description></item><item><title>about</title><link>https://eunhanlee.github.io/about/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/about/</guid><description>EUNHAN LEE (C) 571-294-2589 e-mail LinkedIn
 Education Bachelor of Science, Computer Science Sep. 2018 – Fall 2020
 George Mason University, Fairfax, Virginia
 Related Experience Projects or Works Languages hat program on Android by using PubNub API JAVA, Android Communication with manufacturing Communication Checking new files uploaded on Dropbox by using Dropbox API JAVA, Android Experience Volunteer, Open Community Project March 2017 - Aug.</description></item></channel></rss>
