@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dynamic Programming on Eunhan's library</title><link>https://eunhanlee.github.io/tags/dynamic-programming/</link><description>Recent content in Dynamic Programming on Eunhan's library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; 2021. All rights reserved.</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eunhanlee.github.io/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Dynamic Programming</title><link>https://eunhanlee.github.io/post/dynamic-programming/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/dynamic-programming/</guid><description>Definition algorithmic problem solving technique that split into many simple subproblems and reduce steps of subproblems. In other wards, separates into subproblems and get solution by addition of all subproblems.
-Example if you calculate \(2^1+2^2+2^3+2^4+2^5\) and display each numbers,
-\[2^1=2=2\]
-\[2^2=2+2=2^1+2\]
-\[2^3=2+2+2=2^2+2\]
-\[2^4=2+2+2+2=2^3+2\]
-\[2^5=2+2+2+2+2=2^4+2\]
-since you need to calculate each of numbers (\(2^1,2^2,2^3,2^4,2^5\)), you can skip some of parts that you already calculated. When you calculate the \(2^5\), you done have to calculate \(2^4\) if that number \(2^4\) is already calculated.</description></item></channel></rss>
+Example if you calculate $$2^1+2^2+2^3+2^4+2^5$$ and display each numbers,
+$$2^1=2=2$$
+$$2^2=2+2=2^1+2$$
+$$2^3=2+2+2=2^2+2$$
+$$2^4=2+2+2+2=2^3+2$$
+$$2^5=2+2+2+2+2=2^4+2$$
+since you need to calculate each of numbers ($$2^1,2^2,2^3,2^4,2^5$$), you can skip some of parts that you already calculated. When you calculate the $$2^5$$, you done have to calculate $$2^4$$ if that number $$2^4$$ is already calculated.</description></item></channel></rss>
