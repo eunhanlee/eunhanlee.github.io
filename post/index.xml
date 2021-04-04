@@ -11,10 +11,10 @@ $$2^5=2+2+2+2+2=2^4+2$$
 since you need to calculate each of numbers ($$2^1,2^2,2^3,2^4,2^5$$), you can skip some of parts that you already calculated. When you calculate the $$2^5$$, you done have to calculate $$2^4$$ if that number $$2^4$$ is already calculated.</description></item><item><title>inclusive and exclusive</title><link>https://eunhanlee.github.io/post/inclusive-and-exclusive/</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/inclusive-and-exclusive/</guid><description>Inclusive - Including the last number
 Exclusive - Excluding the last number
 In Computer Science, inclusive/exclusive apply to a number range
-Example inclusive If a function will compute \(2^i\) where \(i = 1, 2, ..., n\).
-\(i\) can have values from 1 up to and including the value n.
+Example inclusive If a function will compute $$2^i$$ where $$i = 1, 2, &amp;hellip;, n$$.
+$$i$$ can have values from 1 up to and including the value n.
 We says, n is Included in Inclusive
-1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute \(2^i\) where i = 1, 2, .</description></item><item><title>Two Sum</title><link>https://eunhanlee.github.io/post/two-sum/</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/two-sum/</guid><description>Problem [Problem_Link]
+1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute $$2^i$$ where i = 1, 2, .</description></item><item><title>Two Sum</title><link>https://eunhanlee.github.io/post/two-sum/</link><pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/two-sum/</guid><description>Problem [Problem_Link]
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 You may assume that each input would have *exactly* one solution, and you may not use the same element twice.
 You can return the answer in any order.
