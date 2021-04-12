@@ -9,7 +9,8 @@ Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-
 </code></pre><p><strong>Example 2:</strong></p><pre><code>Input: [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
-</code></pre><h2 id=my-answer>My Answer</h2><h3 id=my-code>My code</h3><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Solution</span> <span style=color:#f92672>{</span>
+</code></pre><h2 id=my-answer>My Answer</h2><h3 id=my-code>My code</h3><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java>
+<span style=color:#66d9ef>class</span> <span style=color:#a6e22e>Solution</span> <span style=color:#f92672>{</span>
     <span style=color:#66d9ef>public</span> <span style=color:#66d9ef>int</span> <span style=color:#a6e22e>maxProfit</span><span style=color:#f92672>(</span><span style=color:#66d9ef>int</span><span style=color:#f92672>[</span><span style=color:#f92672>]</span> prices<span style=color:#f92672>)</span> <span style=color:#f92672>{</span>
        <span style=color:#66d9ef>int</span> min <span style=color:#f92672>=</span> Integer<span style=color:#f92672>.</span><span style=color:#a6e22e>MAX_VALUE</span><span style=color:#f92672>;</span>
         <span style=color:#66d9ef>int</span> rtn <span style=color:#f92672>=</span> 0<span style=color:#f92672>;</span>
