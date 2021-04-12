@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Loop on Eunhan's library</title><link>https://eunhanlee.github.io/tags/loop/</link><description>Recent content in Loop on Eunhan's library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; 2021. All rights reserved.</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eunhanlee.github.io/tags/loop/index.xml" rel="self" type="application/rss+xml"/><item><title>[JAVA code]for loop</title><link>https://eunhanlee.github.io/post/java-codefor-loop/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/java-codefor-loop/</guid><description> variables in for statement will not keep memory after loop is finished
+break : finish the whole loop
+continue : skip last and move to next loop
+0~9 loop
+for (int i = 0; i &amp;lt; 10; i++) { } 10~0 loop for (int i = 10; i &amp;gt; -1; i--) { } only read the arr, cannot modify for (String str : arr) { }</description></item></channel></rss>
