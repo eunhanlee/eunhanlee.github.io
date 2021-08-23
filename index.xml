@@ -4,7 +4,10 @@ In Computer Science, inclusive/exclusive apply to a number range
 Example inclusive If a function will compute $2^i$ where $i = 1, 2, &amp;hellip;, n$.
 $i$ can have values from 1 up to and including the value n.
 We says, n is Included in Inclusive
-1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute $2^i$ where i = 1, 2, .</description></item><item><title>about</title><link>https://eunhanlee.github.io/about/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/about/</guid><description>EUNHAN LEE (C) 571-294-2589 e-mail LinkedIn
+1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute $2^i$ where i = 1, 2, .</description></item><item><title>what is difference between Error and Exception in Java</title><link>https://eunhanlee.github.io/post/what-is-difference-between-error-and-exception-in-java/</link><pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/what-is-difference-between-error-and-exception-in-java/</guid><description>What is Error Programs run something that is not what programmers wanted or shutdown unexpectedly. Any causes of that action are Error.
+Kinds of Errors compile-time error compile failed. usually, wrong lanuage keyword used. python does not understand &amp;ldquo;System.out.println&amp;rdquo; This code is for JAVA.
+runtime error crash during the programs run. put values in int arr[5] that array size is 3
+logical error programmer created wrong process. you wanted to put blue in variable x.</description></item><item><title>about</title><link>https://eunhanlee.github.io/about/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/about/</guid><description>EUNHAN LEE (C) 571-294-2589 e-mail LinkedIn
 Education Bachelor of Science, Computer Science Sep. 2018 – Fall 2020
 George Mason University, Fairfax, Virginia
 Related Experience Projects or Works Languages hat program on Android by using PubNub API JAVA, Android Communication with manufacturing Communication Checking new files uploaded on Dropbox by using Dropbox API JAVA, Android Experience Volunteer, Open Community Project March 2017 - Aug.</description></item></channel></rss>
