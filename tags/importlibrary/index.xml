@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ImportLibrary on Eunhan's library</title><link>https://eunhanlee.github.io/tags/importlibrary/</link><description>Recent content in ImportLibrary on Eunhan's library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; 2021. All rights reserved.</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eunhanlee.github.io/tags/importlibrary/index.xml" rel="self" type="application/rss+xml"/><item><title>import [library] to [intellij]</title><link>https://eunhanlee.github.io/post/import-library-to-intellij/</link><pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/import-library-to-intellij/</guid><description>purpose import [library] to [intellij]
+What is library? pre-made code collection that you can use it right away. It help people to develop program quickly.
+Steps download library file (jar file)
+File -&amp;gt; Project Structure
+Modules -&amp;gt; project -&amp;gt; Dependencies of tabs
+click &amp;ldquo;+&amp;rdquo;(=JARs or directories&amp;hellip;) to select the jar file that you want to import.
+left side bar underExternal Libraries, you will see imported library.</description></item></channel></rss>
