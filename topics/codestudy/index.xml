@@ -48,4 +48,11 @@ In Computer Science, inclusive/exclusive apply to a number range
 Example inclusive If a function will compute $2^i$ where $i = 1, 2, &amp;hellip;, n$.
 $i$ can have values from 1 up to and including the value n.
 We says, n is Included in Inclusive
-1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute $2^i$ where i = 1, 2, .</description></item></channel></rss>
+1 through 10 (inclusive) = [1, 10] 1 2 3 4 5 6 7 8 9 10 exclusive If a function will compute $2^i$ where i = 1, 2, .</description></item><item><title>Dynamic Programming</title><link>https://eunhanlee.github.io/post/dynamic-programming/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>https://eunhanlee.github.io/post/dynamic-programming/</guid><description>Definition algorithmic problem solving technique that split into many simple subproblems and reduce steps of subproblems. In other wards, separates into subproblems and get solution by addition of all subproblems.
+Example if you calculate $2^1+2^2+2^3+2^4+2^5$ and display each numbers,
+$2^1=2=2$
+$2^2=22=2^12$
+$2^3=222=2^2*2$
+$2^4=2222=2^32$
+$2^5=22222=2^4*2$
+since you need to calculate each of numbers ($2^1,2^2,2^3,2^4,2^5$), you can skip some of parts that you already calculated. When you calculate the $2^5$, you done have to calculate $2^4$ if that number $2^4$ is already calculated.</description></item></channel></rss>
